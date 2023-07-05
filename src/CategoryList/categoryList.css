@@ -1,0 +1,12 @@
+.category-list-wrapper{
+margin-top: -40px;
+
+}
+.category-list-wrapper .category-list{
+    background-color: #fff;
+    border-radius: 10px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding: 4px 0;
+}

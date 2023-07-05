@@ -1,0 +1,14 @@
+.header{
+    background: url("../assets/images/header-background.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    padding: 5em 0;
+    letter-spacing: 3px;
+}
+.header h1{
+    color: #fff;
+    text-align: left;
+    text-transform: uppercase;
+}
+
